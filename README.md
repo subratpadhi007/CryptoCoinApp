@@ -21,9 +21,3 @@
 - UIKit
 - MVVM Architecture
 - API Integration
-
-## Installation
-
-1. Clone the repository.
-2. Open `CryptoCoinApp.xcodeproj` in Xcode.
-3. Run the project on a simulator or device.
